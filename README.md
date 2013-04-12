@@ -1,7 +1,5 @@
-Sample
+Resume
 ======
-
-This resume for applying internship program on summer vacation.
 
 Personal Information
 ====================
